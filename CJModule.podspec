@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "CJModule"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "That is commonly used in project components."
 
   s.homepage     = "https://github.com/dreamCC/CJModule"
